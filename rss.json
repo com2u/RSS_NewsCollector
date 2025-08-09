@@ -1,0 +1,15 @@
+{
+  "sources": [
+    "https://urraca.de/feed/",
+    "https://aktiennews24.de/thema/news/feed/",
+    "https://ai-aktiennews.de/feed/",
+    "https://www.wallstreet-online.de/rss/nachrichten-alle.xml",
+    "https://www.spiegel.de/wirtschaft/index.rss",
+    "https://www.welt.de/feeds/section/wirtschaft.rss",
+    "https://newsfeed.zeit.de/wirtschaft/index",
+    "https://www.finanzen.net/rss/news",
+    "https://www.manager-magazin.de/news/index.rss",
+    "https://api.boerse-frankfurt.de/v1/feeds/news.rss",
+    "https://feeds.purplemanager.com/3bb5104f-f2d6-4138-b889-ac5e5ca06778/alle-news-ohne-agenturmeldungen"
+  ]
+}
