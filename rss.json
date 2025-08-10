@@ -10,6 +10,20 @@
     "https://www.finanzen.net/rss/news",
     "https://www.manager-magazin.de/news/index.rss",
     "https://api.boerse-frankfurt.de/v1/feeds/news.rss",
-    "https://feeds.purplemanager.com/3bb5104f-f2d6-4138-b889-ac5e5ca06778/alle-news-ohne-agenturmeldungen"
+    "https://feeds.purplemanager.com/3bb5104f-f2d6-4138-b889-ac5e5ca06778/alle-news-ohne-agenturmeldungen",
+    "https://www.ccn.com/rss-feeds/crypto/",
+    "https://www.ccn.com/news/crypto-news/feeds/",
+    "https://cointelegraph.com/rss/tag/ethereum",
+    "https://cointelegraph.com/rss/tag/bitcoin",
+    "https://cointelegraph.com/rss/tag/altcoin",
+    "https://cointelegraph.com/rss/category/top-10-cryptocurrencies",
+    "https://bitcoinist.com/feed/",
+    "https://www.newsbtc.com/feed/",
+    "https://news.bitcoin.com/tag/rss/",
+    "https://media.rss.com/bitcoin-and-crypto-news-by-prsotos/feed.xml",
+    "https://de.investing.com/rss/news_301.rss",
+    "https://bitcoinik.com/feed/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rsscrypto.com/#newest/all"
   ]
 }
